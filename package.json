@@ -38,7 +38,7 @@
     "preset": "react-native"
   },
   "devDependencies": {
-    "@react-native-community/eslint-config": "^0.0.5",
+    "@react-native-community/eslint-config": "^1.0.0",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "24.1.0",
     "babel-plugin-module-resolver": "^3.1.3",
