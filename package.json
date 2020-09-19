@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@react-native-community/eslint-config": "^1.0.0",
-    "@types/react-native": "^0.62.0",
+    "@types/react-native": "^0.63.19",
     "@babel/core":"^7.7.5",
     "babel-core": "^7.0.0-bridge.0",
     "babel-jest": "24.1.0",
