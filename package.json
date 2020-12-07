@@ -45,7 +45,7 @@
     "babel-jest": "24.1.0",
     "eslint": "^6.8.0",
     "eslint-plugin-prettier": "^3.1.2",
-    "flow-bin": "0.105.2",
+    "flow-bin": "0.139.0",
     "jest": "24.1.0",
     "metro-react-native-babel-preset": "^0.59.0",
     "prettier": "^2.0.2",
